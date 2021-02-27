@@ -1,2 +1,4 @@
-# amateur-radio-website
-My personal website about my amateur radio activities
+amateur-radio-website
+=====================
+
+My personal website about my amateur radio activities.
